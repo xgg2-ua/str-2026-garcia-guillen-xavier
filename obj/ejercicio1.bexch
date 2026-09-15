@@ -1,0 +1,23 @@
+[GENERATED OBJECT FILE]
+b__ejercicio1.o
+[PROJECT FILES]
+/home/programacion/Desktop/str/practica1.gpr
+20260913091133 da7807926803bc59a0cee3036d0856bb
+[BOUND OBJECT FILES]
+/home/programacion/Desktop/str/obj/pkg_ejercicio2.o
+/home/programacion/Desktop/str/obj/ejercicio1.o
+[GENERATED SOURCE FILES]
+b__ejercicio1.ads
+b__ejercicio1.adb
+b__ejercicio1.ali
+[RESULTING OPTIONS]
+-L/home/programacion/Desktop/str/obj/
+-L/home/programacion/Desktop/str/obj/
+-L/usr/lib/gcc/x86_64-linux-gnu/10/adalib/
+-shared
+-shared-libgcc
+-lgnat-10
+-ldl
+[RUN PATH OPTION]
+/usr/lib/gcc/x86_64-linux-gnu/10/adalib/
+/usr/lib

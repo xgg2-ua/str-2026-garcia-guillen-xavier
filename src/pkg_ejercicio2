@@ -1,0 +1,7 @@
+with Ada.Text_IO;
+use Ada.Text_IO;
+
+procedure OtroMensaje is
+begin
+   Put("Vamos a iniciarnos en el lenguaje de Ada");
+end OtroMensaje;
