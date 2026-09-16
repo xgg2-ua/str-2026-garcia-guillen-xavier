@@ -9,6 +9,7 @@ procedure ejercicio3 is
    package Pkg_Dias_IO is new Ada.Text_IO.Enumeration_IO (TdiasSemana);
 
    use Pkg_Dias_IO;
+   dia : Tdiassemana;
 begin
    Put(getNota,Aft => 1, Exp => 0);
 
@@ -17,4 +18,10 @@ begin
       put(dia);
       new_line;
    end loop;
+   get(dia);
+   if dia = Lunes then
+      put("Hay clase de str");
+   else
+      put("No hay clase de str");
+   end if;
 end ejercicio3;

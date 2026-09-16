@@ -1,22 +1,25 @@
 [GENERATED OBJECT FILE]
-b__ejercicio1.o
+b__main_tareas_estaticas.o
 [PROJECT FILES]
 /home/programacion/Desktop/str/practica1.gpr
-20260916091914 4a0d6f66f3647f54d22f1597868f1b14
+20260916094338 a67cce1709e624afe5f83f64e78925b7
 [BOUND OBJECT FILES]
-/home/programacion/Desktop/str/obj/pkg_ejercicio2.o
-/home/programacion/Desktop/str/obj/ejercicio1.o
+/home/programacion/Desktop/str/obj/pkg_tareas_estaticas.o
+/home/programacion/Desktop/str/obj/main_tareas_estaticas.o
 [GENERATED SOURCE FILES]
-b__ejercicio1.ads
-b__ejercicio1.adb
-b__ejercicio1.ali
+b__main_tareas_estaticas.ads
+b__main_tareas_estaticas.adb
+b__main_tareas_estaticas.ali
 [RESULTING OPTIONS]
 -L/home/programacion/Desktop/str/obj/
 -L/home/programacion/Desktop/str/obj/
 -L/usr/lib/gcc/x86_64-linux-gnu/10/adalib/
 -shared
 -shared-libgcc
+-lgnarl-10
 -lgnat-10
+-lrt
+-lpthread
 -ldl
 [RUN PATH OPTION]
 /usr/lib/gcc/x86_64-linux-gnu/10/adalib/

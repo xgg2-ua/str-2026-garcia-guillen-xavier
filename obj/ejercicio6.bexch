@@ -1,15 +1,14 @@
 [GENERATED OBJECT FILE]
-b__ejercicio1.o
+b__ejercicio6.o
 [PROJECT FILES]
 /home/programacion/Desktop/str/practica1.gpr
 20260916091914 4a0d6f66f3647f54d22f1597868f1b14
 [BOUND OBJECT FILES]
-/home/programacion/Desktop/str/obj/pkg_ejercicio2.o
-/home/programacion/Desktop/str/obj/ejercicio1.o
+/home/programacion/Desktop/str/obj/ejercicio6.o
 [GENERATED SOURCE FILES]
-b__ejercicio1.ads
-b__ejercicio1.adb
-b__ejercicio1.ali
+b__ejercicio6.ads
+b__ejercicio6.adb
+b__ejercicio6.ali
 [RESULTING OPTIONS]
 -L/home/programacion/Desktop/str/obj/
 -L/home/programacion/Desktop/str/obj/

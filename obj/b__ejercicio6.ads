@@ -20,7 +20,7 @@ package ada_main is
                     "GNAT Version: 10.5.0" & ASCII.NUL;
    pragma Export (C, GNAT_Version, "__gnat_version");
 
-   Ada_Main_Program_Name : constant String := "_ada_ejercicio1" & ASCII.NUL;
+   Ada_Main_Program_Name : constant String := "_ada_ejercicio6" & ASCII.NUL;
    pragma Export (C, Ada_Main_Program_Name, "__gnat_ada_main_program_name");
 
    procedure adainit;
@@ -37,8 +37,8 @@ package ada_main is
    pragma Export (C, main, "main");
 
    type Version_32 is mod 2 ** 32;
-   u00001 : constant Version_32 := 16#4497a9b9#;
-   pragma Export (C, u00001, "ejercicio1B");
+   u00001 : constant Version_32 := 16#bed8c6ec#;
+   pragma Export (C, u00001, "ejercicio6B");
    u00002 : constant Version_32 := 16#050ff2f0#;
    pragma Export (C, u00002, "system__standard_libraryB");
    u00003 : constant Version_32 := 16#4113f22b#;
@@ -303,14 +303,28 @@ package ada_main is
    pragma Export (C, u00132, "system__val_unsB");
    u00133 : constant Version_32 := 16#47b5ed3e#;
    pragma Export (C, u00133, "system__val_unsS");
-   u00134 : constant Version_32 := 16#dfd22bc0#;
-   pragma Export (C, u00134, "pkg_ejercicio2B");
-   u00135 : constant Version_32 := 16#bef0838f#;
-   pragma Export (C, u00135, "pkg_ejercicio2S");
-   u00136 : constant Version_32 := 16#e31b7c4e#;
-   pragma Export (C, u00136, "system__memoryB");
-   u00137 : constant Version_32 := 16#1f488a30#;
-   pragma Export (C, u00137, "system__memoryS");
+   u00134 : constant Version_32 := 16#cd2959fb#;
+   pragma Export (C, u00134, "ada__numericsS");
+   u00135 : constant Version_32 := 16#ec9cfed1#;
+   pragma Export (C, u00135, "system__random_numbersB");
+   u00136 : constant Version_32 := 16#852d5c9e#;
+   pragma Export (C, u00136, "system__random_numbersS");
+   u00137 : constant Version_32 := 16#15692802#;
+   pragma Export (C, u00137, "system__random_seedB");
+   u00138 : constant Version_32 := 16#1d25c55f#;
+   pragma Export (C, u00138, "system__random_seedS");
+   u00139 : constant Version_32 := 16#6feb5362#;
+   pragma Export (C, u00139, "ada__calendarB");
+   u00140 : constant Version_32 := 16#31350a81#;
+   pragma Export (C, u00140, "ada__calendarS");
+   u00141 : constant Version_32 := 16#51f2d040#;
+   pragma Export (C, u00141, "system__os_primitivesB");
+   u00142 : constant Version_32 := 16#41c889f2#;
+   pragma Export (C, u00142, "system__os_primitivesS");
+   u00143 : constant Version_32 := 16#e31b7c4e#;
+   pragma Export (C, u00143, "system__memoryB");
+   u00144 : constant Version_32 := 16#1f488a30#;
+   pragma Export (C, u00144, "system__memoryS");
 
    --  BEGIN ELABORATION ORDER
    --  ada%s
@@ -324,6 +338,8 @@ package ada_main is
    --  system.img_lli%b
    --  system.io%s
    --  system.io%b
+   --  system.os_primitives%s
+   --  system.os_primitives%b
    --  system.parameters%s
    --  system.parameters%b
    --  system.crtl%s
@@ -425,6 +441,7 @@ package ada_main is
    --  ada.exceptions%b
    --  system.val_lli%b
    --  system.val_llu%b
+   --  ada.numerics%s
    --  ada.tags%s
    --  ada.tags%b
    --  ada.streams%s
@@ -439,6 +456,8 @@ package ada_main is
    --  system.val_uns%b
    --  system.val_int%s
    --  system.val_int%b
+   --  ada.calendar%s
+   --  ada.calendar%b
    --  ada.text_io%s
    --  ada.text_io%b
    --  ada.text_io.generic_aux%s
@@ -447,9 +466,11 @@ package ada_main is
    --  ada.text_io.integer_aux%b
    --  ada.integer_text_io%s
    --  ada.integer_text_io%b
-   --  pkg_ejercicio2%s
-   --  pkg_ejercicio2%b
-   --  ejercicio1%b
+   --  system.random_seed%s
+   --  system.random_seed%b
+   --  system.random_numbers%s
+   --  system.random_numbers%b
+   --  ejercicio6%b
    --  END ELABORATION ORDER
 
 end ada_main;

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Locations >
   <Project>
-    <vfs_file>/home/programacion/Desktop/str/practica1.gpr</vfs_file>
-    <file_marker column=" 1" line=" 31" >
+    <vfs_file />
+    <file_marker column=" 13" line=" 29" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
       <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
     </file_marker>
@@ -14,15 +14,35 @@
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
       <vfs_file>/home/programacion/Desktop/str/src/pkg_ejercicio2.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 42" line=" 14" >
+    <file_marker column=" 1" line=" 35" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
       <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 30" >
+    <file_marker column=" 4" line=" 15" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
       <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 13" line=" 24" >
+    <file_marker column=" 12" line=" 14" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 35" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 32" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 35" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 12" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 35" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
       <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
     </file_marker>
@@ -30,69 +50,133 @@
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
       <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 36" line=" 18" >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/ejercicio6.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/ejercicio6.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/ejercicio6.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/ejercicio6.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 17" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/ejercicio6.adb</vfs_file>
     </file_marker>
     <file_marker column=" 4" line=" 13" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio1.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/numerosaleatorios.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 13" line=" 19" >
+    <file_marker column=" 14" line=" 3" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/numerosaleatorios.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 11" line=" 17" >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/main_tareas_estaticas.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 16" line=" 18" >
+    <file_marker column=" 27" line=" 8" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/main_tareas_estaticas.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 11" line=" 17" >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 11" line=" 16" >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.ads</vfs_file>
     </file_marker>
-    <file_marker column=" 7" line=" 17" >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 21" line=" 16" >
+    <file_marker column=" 26" line=" 22" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 7" line=" 17" >
+    <file_marker column=" 1" line=" 21" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 5" >
+    <file_marker column=" 16" line=" 19" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 6" >
-      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.adb</vfs_file>
     </file_marker>
     <file_marker column=" 1" line=" 22" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 6" >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_ejercicio2.ads</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 14" >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 1" line=" 14" >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
-      <vfs_file>/home/programacion/Desktop/str/src/ejercicio3.adb</vfs_file>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/main_tareas_estaticas.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/main_tareas_estaticas.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 48" line=" 21" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_estaticas.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_dinamicas.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_dinamicas.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_dinamicas.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 26" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/pkg_tareas_dinamicas.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 3" >
+      <vfs_project>/home/programacion/Desktop/str/practica1.gpr</vfs_project>
+      <vfs_file>/home/programacion/Desktop/str/src/main_tareas_dinamicas.adb</vfs_file>
     </file_marker>
   </Project>
 </Locations>

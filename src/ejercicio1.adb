@@ -4,10 +4,14 @@ with Ada.Integer_Text_IO; use Ada.Integer_Text_IO;
 
 procedure ejercicio1 is
    s : String := "Comenzamos las practicas de STR ";
-   Numero : Integer;
+   Numero : Natural;
 begin
    Put("Hola mundo");
    new_line;
+   Put_Line(s);
+   otroMensaje;
+
+      begin
    get(Numero);
 
    case numero is
@@ -23,8 +27,11 @@ begin
 
    end case;
    new_line;
+exception
+      when constraint_error=> put("Numemro mayor que > 0");
+   end;
+   new_line;
+   put("FIN DEL PROGRAMA");
 
 
-   Put_Line(s);
-   otroMensaje;
 end ejercicio1;
